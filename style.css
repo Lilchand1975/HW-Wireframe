@@ -1,8 +1,68 @@
-Header
+body {
+    background-color: grey;
+}
 
-Navigation
-Homework 1
-Due on Apr.28,2018
-Bootcamp
-This is html file
-Footer
+#header {
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    height: 50px;
+    margin-top: 5px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+#section {
+    background-color: aliceblue;
+    height: 200px;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+#aside {
+    background-color: aliceblue;
+    height: 200px;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 10px;
+
+}
+
+.article {
+    background-color: grey;
+    margin-top: 18px;
+    height: 135px;
+    color: white;
+    text-align: center;
+}
+
+.h1 {
+    background-color: aliceblue;
+    margin-top: 14px;
+    color: black;
+    height: 35px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.p1 {
+    background-color: aliceblue;
+    margin-top: 10px;
+    color: black;
+    height: 35px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+#footer {
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    height: 50px;
+    margin-top: 15px;
+}
